@@ -1,0 +1,15 @@
+.card__container{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    background-color: black;
+    color: white;
+}
+
+.card{
+    font-size: 20px;
+    padding: 20px ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
