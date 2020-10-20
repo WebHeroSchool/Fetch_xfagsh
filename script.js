@@ -28,6 +28,7 @@ function createCard(obj) {
     // }
     let bio = (!obj.bio) ? 'Нету bio' : obj.bio;
 
+    
     const text = `
     <div class="card">
         <div class="card__img">
